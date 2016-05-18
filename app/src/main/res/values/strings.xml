@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RG accel 1.7</string>
+    <string name="title_label">Názov merania:</string>
+    <string name="frequency_label">Frekvencia uloženia hodnôt (Hz):</string>
+    <string name="title">Názov trasy:</string>
+    <string name="gps">GPS:</string>
+    <string name="quit">Vypnúť</string>
+    <string name="measure">Merať</string>
+    <string name="endmeasurement">Ukončiť meranie</string>
+    <string name="route">Cesta</string>
+    <string name="novalue">žiadna hodnota</string>
+    <string name="ready">OK</string>
+    <string name="notready">nepripravnené</string>
+    <string name="time_label">Čas od začiatku merania:</string>
+    <string name="location_info_label">Geografické súradnice:</string>
+    <string name="location_speed_label">Rýchlosť:</string>
+    <string name="accelerometer_label">Priemerná veľkosť zrýchlenia za 1s:</string>
+    <string name="measurement">Prebieha meranie</string>
+    <string name="noticeset">Signalizovať pokles pod:</string>
+    <string-array name="notice_array">
+        <item>nesignalizovať</item>
+        <item>Pod 5 hviezdičiek</item>
+        <item>Pod 4 hviezdičky</item>
+        <item>Pod 3 hviezdičky</item>
+        <item>Pod 2 hviezdičky</item>
+        <item>Pod 1 hviezdičku</item>
+    </string-array>
+</resources>
